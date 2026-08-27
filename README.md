@@ -10,4 +10,4 @@ This is a recreation of the game Asteroids for the 20 Games Challenge #4.
 
 - You can play the game on itch.io, it is a web game that you play straight in the browser without having to download it.
 
-- Link to the game:
+- Link to the game: https://ondracz12345.itch.io/asteroids
